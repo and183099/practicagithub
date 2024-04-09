@@ -1,0 +1,28 @@
+body{
+    background-color: lightgray;
+
+}
+
+h1{
+    font-size: 2.5rem;
+    color: rgb(94, 63, 206);
+    background: gray;
+    font-family: 'Times New Roman', Times, serif;
+    text-shadow: 2px 3px #000;
+}
+h2{
+    color: darkslategrey;
+    font-family: cursive;
+}
+h1{
+    text-align: center;
+}
+p{
+   font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+ul{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+ol{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
